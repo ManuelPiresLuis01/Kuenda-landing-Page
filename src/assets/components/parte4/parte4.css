@@ -1,0 +1,30 @@
+.parte4 .fotos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 0 50px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.parte4 p {
+    color: #FCFCFC;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    margin: 0 200px;
+    margin-top: -350px;
+    z-index: 99999;
+    padding: 20px 30px;
+    background-color: #000000ab;
+}
+
+.parte4 {
+    margin-bottom: 140px;
+}

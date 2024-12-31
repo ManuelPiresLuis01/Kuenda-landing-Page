@@ -1,0 +1,108 @@
+.parte1 {
+    background: url(../../images/parte1/background1.png);
+    background-blend-mode: color;
+    background-color: #0000006e;
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
+    padding: 5px 30px;
+    padding-bottom: 50px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px;
+    gap: 100px;
+}
+
+.txt button {
+    width: Hug (243.76px)px;
+    margin-top: 80px;
+    cursor: pointer;
+    height: Hug (67.78px)px;
+    top: 602px;
+    left: 68.62px;
+    padding: 6px 20px;
+    gap: 16.64px;
+    border-radius: 39px;
+    background: none;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #FCFCFC;
+    color: #FCFCFC;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+}
+
+button img {
+   width: 25px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img {
+    display: flex;
+}
+
+.txt{
+    text-align: center;
+}
+.txt h1 {
+    font-family: Playfair Display;
+    font-size: 103.97px;
+    font-weight: 700;
+    line-height: 138.59px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FCFCFCFC;
+
+}
+
+.txt p {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.79px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FCFCFCFC;
+}
+
+.more{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+}
+
+/*.foto1{
+    transform: scale(.9);
+}*/
+.foto2{
+    transform: scale(.7);
+}
+
+.foto3{
+    margin-left: -20px;
+}
+
+.arrow{
+    display: flex;
+    justify-content: center;
+}
+
+.dots{
+    display: flex;
+    gap: 5px;
+    margin: 20px 0;
+}
+.dots img{
+    width: 9px;
+}
+.arrow img{
+    width: 40px;
+}

@@ -1,0 +1,39 @@
+.parte2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 100px;
+    height: 734px;
+    flex-shrink: 0;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+
+.images {
+    width: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images img {
+    width: 1300px;
+}
+
+.parte2 .txt {
+    width: 50%;
+}
+
+.parte2 p {
+    width: 431px;
+    color: var(--cinza-escuro, #4A4A4A);
+    font-family: "Playfair Display";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 100px;
+}

@@ -1,0 +1,21 @@
+.parte7{
+    margin-bottom: 30px;
+}
+
+.parte7 h1 {
+    margin-bottom: 100px;
+    color: #4A4A4A;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.testemunhas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}

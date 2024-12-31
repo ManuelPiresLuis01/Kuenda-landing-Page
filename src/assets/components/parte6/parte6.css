@@ -1,0 +1,48 @@
+.parte6 {
+    margin: 80px;
+    margin-bottom: 20px;
+}
+
+.content {
+    width: 100%;
+    overflow: hidden;
+}
+
+.content img{
+    height: 350px;
+}
+.parte6 h1 {
+    color: #4A4A4A;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.parte6 p {
+    color: #4A4A4A;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 50px 0 100px 0;
+}
+
+.first,
+.second {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.first img,
+.second img {
+    display: block;
+    width: 800px;
+    margin-bottom: 10px;
+}
